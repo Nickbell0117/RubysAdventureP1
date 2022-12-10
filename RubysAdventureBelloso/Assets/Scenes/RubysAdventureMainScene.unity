@@ -56379,6 +56379,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5854605966985492328, guid: e2f8bd387bbf1c04d8fcdaac0dbaecbd, type: 3}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 5854605966985492329, guid: e2f8bd387bbf1c04d8fcdaac0dbaecbd, type: 3}
       propertyPath: m_Name
       value: EnemyBot
@@ -56389,11 +56393,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5854605966985492333, guid: e2f8bd387bbf1c04d8fcdaac0dbaecbd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.13631827
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5854605966985492333, guid: e2f8bd387bbf1c04d8fcdaac0dbaecbd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.799935
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 5854605966985492333, guid: e2f8bd387bbf1c04d8fcdaac0dbaecbd, type: 3}
       propertyPath: m_LocalPosition.z
